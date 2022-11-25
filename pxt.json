@@ -1,0 +1,30 @@
+{
+    "name": "maqueentttttt",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "maqueen": "github:jhlucky/maqueen#fef228d7be5148f7bce8b0de61d00d7d64aef87c",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.6.2",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v5.0.12",
+        "tag": "v5.0.12",
+        "commits": "https://github.com/microsoft/pxt-microbit/commits/97491d6832cccab6b5bdc05b58e4c6b5dcc18cdd",
+        "target": "5.0.12",
+        "pxt": "8.0.7",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
